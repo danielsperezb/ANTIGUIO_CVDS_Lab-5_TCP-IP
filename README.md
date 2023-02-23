@@ -39,3 +39,12 @@ El valor del parametro es "helloServlet".
 
 Revise en el pom.xml para qué puerto TCP/IP está configurado el servidor embebido de Tomcat (versección de plugins).
 El puerto configurado es el 8080.
+
+
+**PARTE III**
+
+Recompile y ejecute la aplicación. Abra en su navegador en la página del formulario, y rectifique que la página hecha anteriormente sea mostrada. Ingrese los datos y verifique losresultados. Cambie el formulario para que ahora en lugar de POST, use el método GET . Qué diferencia observa?
+
+¿Qué se está viendo? Revise cómo están implementadoslos métodos de la clase Service.java para entender el funcionamiento interno.
+
+**PARTE IV. - JUGANDO A SER UN CLIENTE HTTP**
